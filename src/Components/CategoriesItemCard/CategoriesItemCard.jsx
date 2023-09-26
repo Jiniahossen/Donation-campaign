@@ -19,8 +19,8 @@ const CategoriesItemCard = ({ category }) => {
     return (
         <div>
             <div className="card card-compact  shadow-xl" style={categoryBgStyle}>
-                <div>
-                    <figure><img src={picture} alt="Shoes" /></figure>
+                <div className=" h-40 w-full">
+                    <figure><img src={picture} alt="Shoes" className=" h-40 w-full" /></figure>
                 </div>
                 <div className="ps-4 py-4">
                     <Link to={`/donation_details/${id}`}>
