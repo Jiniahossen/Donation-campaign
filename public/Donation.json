@@ -1,0 +1,147 @@
+[
+    {
+        "id": "1",
+        "picture": "../Resources/Health.png",
+        "title": "Clean water for children",
+        "category_name": "Health",
+        "category_name_bg_color": "#dbe5fd",
+        "text_color": "#0052ff",
+        "button_bg_color": "#aec7ff",
+        "description": "Health care, or healthcare, is the improvement of health via the prevention, diagnosis, treatment, amelioration or cure of disease, illness, injury, and other physical and mental impairments in people.Health care, or healthcare, is the improvement of health via the prevention, diagnosis, treatment, amelioration or cure of disease, illness, injury, and other physical and mental impairments in people.Health care, or healthcare, is the improvement of health via the prevention, diagnosis, treatment, amelioration or cure of disease, illness, injury, and other physical and mental impairments in people",
+        "price": "250.00",
+        "photo":"../Resources/Rectangle 4284.png"
+    },
+    {
+        "id": "2",
+        "picture": "../Resources/Education.png",
+        "title": "Good Education",
+        "category_name": "Education",
+        "category_name_bg_color": "#ffe3e4",
+        "text_color": "#ff444b",
+        "button_bg_color": "#ffc4c5",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": "180.00",
+        "photo":"../Resources/Rectangle 4287-1.png"
+    },
+    {
+        "id": "3",
+        "picture": "../Resources/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category_name": "Clothing",
+        "category_name_bg_color": "#ebf6e2",
+        "text_color": "#79c240",
+        "button_bg_color": "#d5ecc2",
+        "description": "Those food items, old clothes, or books you've donated can change a life. And a simple care package can help a homeless person get through the day. That's the beauty of giving back and helping. You don't need to be a multi-millionaire to make a difference.Those food items, old clothes, or books you've donated can change a life. And a simple care package can help a homeless person get through the day. That's the beauty of giving back and helping. You don't need to be a multi-millionaire to make a difference.Those food items, old clothes, or books you've donated can change a life. And a simple care package can help a homeless person get through the day. That's the beauty of giving back and helping. You don't need to be a multi-millionaire to make a difference",
+        "price": "275.00",
+        "photo":"../Resources/Rectangle 4287.png"
+    },
+    {
+        "id": "4",
+        "picture": "../Resources/Food.png",
+        "title": "Better Food for Everyone",
+        "category_name": "Food",
+        "category_name_bg_color": "#feeae4",
+        "text_color": "#f87146",
+        "button_bg_color": "#fdd2c4",
+        "description": "If you share this belief, join us in the fight against hunger with a generous gift today. Your donation of as little as $2 per day will feed a family. You can give one-time or monthly to sustain our hunger relief efforts. Let’s work together to provide the life-sustaining help they need.If you share this belief, join us in the fight against hunger with a generous gift today. Your donation of as little as $2 per day will feed a family. You can give one-time or monthly to sustain our hunger relief efforts. Let’s work together to provide the life-sustaining help they need.",
+        "price": "200.00",
+        "photo":"../Resources/Rectangle 4287-2.png"
+    },
+    {
+        "id": "5",
+        "picture": "../Resources/Food.png",
+        "title": "Hunger should kick the can!",
+        "category_name": "Food",
+        "category_name_bg_color": "#feeae4",
+        "text_color": "#f87146",
+        "button_bg_color": "#fdd2c4",
+        "description": "If you share this belief, join us in the fight against hunger with a generous gift today. Your donation of as little as $2 per day will feed a family. You can give one-time or monthly to sustain our hunger relief efforts. Let’s work together to provide the life-sustaining help they need.If you share this belief, join us in the fight against hunger with a generous gift today. Your donation of as little as $2 per day will feed a family. You can give one-time or monthly to sustain our hunger relief efforts. Let’s work together to provide the life-sustaining help they need.",
+        "price": "200.00",
+        "photo":"../Resources/Rectangle 4287-2.png"
+    },
+    {
+        "id": "6",
+        "picture": "../Resources/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category_name": "Clothing",
+        "category_name_bg_color": "#ebf6e2",
+        "text_color": "#79c240",
+        "button_bg_color": "#d5ecc2",
+        "description": "Those food items, old clothes, or books you've donated can change a life. And a simple care package can help a homeless person get through the day. That's the beauty of giving back and helping. You don't need to be a multi-millionaire to make a difference.Those food items, old clothes, or books you've donated can change a life. And a simple care package can help a homeless person get through the day. That's the beauty of giving back and helping. You don't need to be a multi-millionaire to make a difference.Those food items, old clothes, or books you've donated can change a life. And a simple care package can help a homeless person get through the day. That's the beauty of giving back and helping. You don't need to be a multi-millionaire to make a difference",
+        "price": "275.00",
+        "photo":"../Resources/Rectangle 4287.png"
+    },
+    {
+        "id": "7",
+        "picture": "../Resources/Education.png",
+        "title": "Good Education",
+        "category_name": "Education",
+        "category_name_bg_color": "#ffe3e4",
+        "text_color": "#ff444b",
+        "button_bg_color": "#ffc4c5",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": "180.00",
+        "photo":"../Resources/Rectangle 4287-1.png"
+    },
+    {
+        "id": "8",
+        "picture": "../Resources/Health.png",
+        "title": "Clean water for children",
+        "category_name": "Health",
+        "category_name_bg_color": "#dbe5fd",
+        "text_color": "#0052ff",
+        "button_bg_color": "#aec7ff",
+        "description": "Health care, or healthcare, is the improvement of health via the prevention, diagnosis, treatment, amelioration or cure of disease, illness, injury, and other physical and mental impairments in people.Health care, or healthcare, is the improvement of health via the prevention, diagnosis, treatment, amelioration or cure of disease, illness, injury, and other physical and mental impairments in people.Health care, or healthcare, is the improvement of health via the prevention, diagnosis, treatment, amelioration or cure of disease, illness, injury, and other physical and mental impairments in people.",
+        "price": "250.00",
+        "photo":"../Resources/Rectangle 4284.png"
+    },
+
+    {
+        "id": "9",
+        "picture": "../Resources/Health.png",
+        "title": "Clean water for children",
+        "category_name": "Health",
+        "category_name_bg_color": "#dbe5fd",
+        "text_color": "#0052ff",
+        "button_bg_color": "#aec7ff",
+        "description": "Health care, or healthcare, is the improvement of health via the prevention, diagnosis, treatment, amelioration or cure of disease, illness, injury, and other physical and mental impairments in people.Health care, or healthcare, is the improvement of health via the prevention, diagnosis, treatment, amelioration or cure of disease, illness, injury, and other physical and mental impairments in people.Health care, or healthcare, is the improvement of health via the prevention, diagnosis, treatment, amelioration or cure of disease, illness, injury, and other physical and mental impairments in people.",
+        "price": "250.00",
+        "photo":"../Resources/Rectangle 4284.png"
+    },
+    {
+        "id": "10",
+        "picture": "../Resources/Education.png",
+        "title": "Good Education",
+        "category_name": "Education",
+        "category_name_bg_color": "#ffe3e4",
+        "text_color": "#ff444b",
+        "button_bg_color": "#ffc4c5",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": "180.00",
+        "photo":"../Resources/Rectangle 4287-1.png"
+    },
+    {
+        "id": "11",
+        "picture": "../Resources/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category_name": "Clothing",
+        "category_name_bg_color": "#ebf6e2",
+        "text_color": "#79c240",
+        "button_bg_color": "#d5ecc2",
+        "description": "Those food items, old clothes, or books you've donated can change a life. And a simple care package can help a homeless person get through the day. That's the beauty of giving back and helping. You don't need to be a multi-millionaire to make a difference.Those food items, old clothes, or books you've donated can change a life. And a simple care package can help a homeless person get through the day. That's the beauty of giving back and helping. You don't need to be a multi-millionaire to make a difference.Those food items, old clothes, or books you've donated can change a life. And a simple care package can help a homeless person get through the day. That's the beauty of giving back and helping. You don't need to be a multi-millionaire to make a difference",
+        "price": "275.00",
+        "photo":"../Resources/Rectangle 4287.png"
+    },
+    {
+        "id": "12",
+        "picture": "../Resources/Food.png",
+        "title": "Better Food for Everyone",
+        "category_name": "Food",
+        "category_name_bg_color": "#feeae4",
+        "text_color": "#f87146",
+        "button_bg_color": "#fdd2c4",
+        "description": "If you share this belief, join us in the fight against hunger with a generous gift today. Your donation of as little as $2 per day will feed a family. You can give one-time or monthly to sustain our hunger relief efforts. Let’s work together to provide the life-sustaining help they need.If you share this belief, join us in the fight against hunger with a generous gift today. Your donation of as little as $2 per day will feed a family. You can give one-time or monthly to sustain our hunger relief efforts. Let’s work together to provide the life-sustaining help they need.If you share this belief, join us in the fight against hunger with a generous gift today. Your donation of as little as $2 per day will feed a family. You can give one-time or monthly to sustain our hunger relief efforts. Let’s work together to provide the life-sustaining help they need.",
+        "price": "200.00",
+        "photo":"../Resources/Rectangle 4287-2.png"
+    }
+]
