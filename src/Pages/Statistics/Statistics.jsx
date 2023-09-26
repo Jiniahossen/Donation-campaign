@@ -1,6 +1,5 @@
 import  { useEffect, useState } from "react";
 
-import ShowPeiChart from "./ShowPeiChart";
 
 const Statistics = () => {
   const [donationData, setDonationData] = useState([]);
@@ -18,11 +17,12 @@ const Statistics = () => {
     }
   }, []);
 
+  const size=(donationData.length);
+  const initial=12;
+
   return (
     <div>
-        {
-            donationData.map(data=><ShowPeiChart key={data.id} data={data}></ShowPeiChart>)
-        }
+
     </div>
   );
 };
