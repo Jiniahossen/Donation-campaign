@@ -49,7 +49,7 @@
     },
     {
         "id": "5",
-        "picture": "./Resources/volunteers-with-medical-masks-posing-together-with-donation-boxes.jpg",
+        "picture": "../Resources/volunteers-with-medical-masks-posing-together-with-donation-boxes.jpg",
         "title": "Hunger should kick the can!",
         "category_name": "Food",
         "category_name_bg_color": "#feeae4",
