@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "picture": "../Resources/Health.png",
+        "picture": "https://i.ibb.co/BKbzTTW/Health.png",
         "title": "Clean water for children",
         "category_name": "Health",
         "category_name_bg_color": "#dbe5fd",
@@ -13,7 +13,7 @@
     },
     {
         "id": "2",
-        "picture": "../Resources/Education.png",
+        "picture": "https://i.ibb.co/dKRqSLf/Education.png",
         "title": "Good Education",
         "category_name": "Education",
         "category_name_bg_color": "#ffe3e4",
@@ -25,7 +25,7 @@
     },
     {
         "id": "3",
-        "picture": "../Resources/Clothing.png",
+        "picture": "https://i.ibb.co/xY3x4HF/Clothing.png",
         "title": "Used Clothing Drive",
         "category_name": "Clothing",
         "category_name_bg_color": "#ebf6e2",
@@ -37,7 +37,7 @@
     },
     {
         "id": "4",
-        "picture": "../Resources/Food.png",
+        "picture": "https://i.ibb.co/Ph2rv8F/Food.png",
         "title": "Better Food for Everyone",
         "category_name": "Food",
         "category_name_bg_color": "#feeae4",
@@ -49,7 +49,7 @@
     },
     {
         "id": "5",
-        "picture": "../Resources/Food.png",
+        "picture": "https://i.ibb.co/Ph2rv8F/Food.png",
         "title": "Hunger should kick the can!",
         "category_name": "Food",
         "category_name_bg_color": "#feeae4",
@@ -61,7 +61,7 @@
     },
     {
         "id": "6",
-        "picture": "../Resources/Clothing.png",
+        "picture": "https://i.ibb.co/xY3x4HF/Clothing.png",
         "title": "Used Clothing Drive",
         "category_name": "Clothing",
         "category_name_bg_color": "#ebf6e2",
@@ -73,7 +73,7 @@
     },
     {
         "id": "7",
-        "picture": "../Resources/Education.png",
+        "picture": "https://i.ibb.co/dKRqSLf/Education.png",
         "title": "A Holistic School.",
         "category_name": "Education",
         "category_name_bg_color": "#ffe3e4",
@@ -85,7 +85,7 @@
     },
     {
         "id": "8",
-        "picture": "../Resources/Health.png",
+        "picture": "https://i.ibb.co/BKbzTTW/Health.png",
         "title": "Be Funny and Creative.",
         "category_name": "Health",
         "category_name_bg_color": "#dbe5fd",
@@ -98,7 +98,7 @@
 
     {
         "id": "9",
-        "picture": "../Resources/Health.png",
+        "picture": "https://i.ibb.co/BKbzTTW/Health.png",
         "title": "Donate blood and save lives",
         "category_name": "Health",
         "category_name_bg_color": "#dbe5fd",
@@ -110,7 +110,7 @@
     },
     {
         "id": "10",
-        "picture": "../Resources/Education.png",
+        "picture": "https://i.ibb.co/dKRqSLf/Education.png",
         "title": "A school for life.",
         "category_name": "Education",
         "category_name_bg_color": "#ffe3e4",
@@ -122,7 +122,7 @@
     },
     {
         "id": "11",
-        "picture": "../Resources/Clothing.png",
+        "picture": "https://i.ibb.co/xY3x4HF/Clothing.png",
         "title": "Donate your cloth",
         "category_name": "Clothing",
         "category_name_bg_color": "#ebf6e2",
@@ -134,7 +134,7 @@
     },
     {
         "id": "12",
-        "picture": "../Resources/Food.png",
+        "picture": "https://i.ibb.co/Ph2rv8F/Food.png",
         "title": "Give what you can.",
         "category_name": "Food",
         "category_name_bg_color": "#feeae4",
