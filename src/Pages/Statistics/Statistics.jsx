@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import  { useEffect, useState } from "react";
 import { PieChart, Pie, Cell, ResponsiveContainer, Legend } from 'recharts';
 
 const Statistics = () => {
@@ -38,7 +38,7 @@ const Statistics = () => {
 
   return (
     <div>
-      <ResponsiveContainer width="100%" height={400}>
+      <ResponsiveContainer  height={400} className={' w-[90%] mx-auto'}>
         <PieChart>
           <Legend
             iconType="circle"

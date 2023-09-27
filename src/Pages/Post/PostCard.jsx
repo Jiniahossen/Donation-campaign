@@ -40,7 +40,7 @@ const PostCard = ({post}) => {
                     <figure><img src={picture} alt="Shoes" className=" w-full h-[50vh] rounded-md" /></figure>
                 </div>
                 </div>
-                <div className=" left-10 bottom-8 md:left-20 md:bottom-16 absolute lg:left-40 lg:top-96 lg:mt-16 w-[80%] mx-auto">
+                <div className=" left-14 bottom-32 md:left-24 md:bottom-40 absolute lg:left-40 lg:top-96 lg:mt-16 w-[80%] mx-auto">
                     <Link>
                     <button onClick={handleDonationButton} style={categoryButtonStyle} className=" text-lg text-black font-sans font-medium px-2 py-2 rounded-md">Donate ${price}</button></Link>
                 </div>
